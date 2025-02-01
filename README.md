@@ -4,7 +4,7 @@ List of greatest games web ports (Emscripten, Web Assembly, JS-DOS and other emu
 
 
 ## Dos Games
-* [JS-DOS](https://github.com/js-dos/) - An excellent DOS emulator for web. Includes Dos Browser Projcet with hardware acceleration for Windows, Android and Linux]
+* [JS-DOS](https://github.com/js-dos/) - An excellent DOS emulator for web. Includes Dos Browser Projcet with hardware acceleration for Windows, Android and Linux, also Steam Deck support
   
 ## 3D Action
 * [Descent I](https://github.com/midzer/dxx-rebirth)
