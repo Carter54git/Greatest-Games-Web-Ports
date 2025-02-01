@@ -1,4 +1,4 @@
-# Greatest Games Webports (Work in progress...)
+# Greatest Games Web Ports (Work in progress...)
 
 List of greatest games web ports (Emscripten, Web Assembly, JS-DOS and other emulators)
 
