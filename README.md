@@ -1,4 +1,4 @@
-# Web Game Ports
+# Ultimate Catalog of Web Game Ports
 
 A catalog of browser game ports with demo links and source repositories.
 
