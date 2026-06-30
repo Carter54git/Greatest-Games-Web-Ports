@@ -2,6 +2,8 @@
 
 A catalog of browser game ports with demo links and source repositories.
 
+This catalog tracks games playable in the browser, mostly via WebAssembly (WASM) — compiled C/C++ (often through Emscripten and SDL), plus Unity WebGL, Godot HTML5, Flash/Ruffle, and pure JavaScript/WebGL ports.
+
 ## Stats
 
 | Metric | Count |
