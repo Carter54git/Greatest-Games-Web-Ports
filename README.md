@@ -490,15 +490,6 @@ A catalog of browser game ports with demo links and source repositories.
 | 473 | Youtubers Life OMG! | — | [Reeyuki/ytlifeomg](https://github.com/Reeyuki/ytlifeomg) |
 | 474 | Yume Nikki | [▶ Play](https://gn-math.github.io/web-port/yume-nikki/) | [genizy/web-port/tree/main/yume-nikki](https://github.com/genizy/web-port/tree/main/yume-nikki) |
 
-## Updating
-
-Place the latest `web-game-ports.xlsx` and run:
-
-```bash
-pip install pandas openpyxl
-python scripts/generate.py path/to/web-game-ports.xlsx
-```
-
 ## License
 
 Catalog data is provided as-is. Links point to third-party projects —
